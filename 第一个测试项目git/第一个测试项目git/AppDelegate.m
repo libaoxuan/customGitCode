@@ -16,6 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    ///  拉了发动机垃圾坑垃圾卡拉是对方即可拉伸的刻录机
     // Override point for customization after application launch.
     return YES;
 }
