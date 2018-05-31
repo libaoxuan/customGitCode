@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // 这是励志要做成一个很牛逼的APP
+    // aaa: 这是励志要做成一个很牛逼的APP
+    // bbb: 我就呵呵了,你做出来再说吧
 }
 
 
